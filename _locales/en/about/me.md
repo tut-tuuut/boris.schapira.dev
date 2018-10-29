@@ -3,7 +3,6 @@ layout: page
 title: Hi, I'm Boris
 permalink: /about/me/
 date: 2015-10-05 17:15:20
-locale: "en"
 ---
 
 ## nice to meet you
