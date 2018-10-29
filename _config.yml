@@ -100,7 +100,6 @@ description: "Blog personnel de Boris Schapira. Des avis sur les métiers du web
 url: "https://borisschapira.com"
 baseurl: "/"
 timezone: Europe/Paris
-incremental: true
 encoding: utf-8
 lsi: true
 repository: "borisschapira/borisschapira.com"
