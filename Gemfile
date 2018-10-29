@@ -13,7 +13,7 @@ group :jekyll_tests do
 end
 
 group :jekyll_plugins do
-  gem "jekyll-locale"
+  gem "jekyll-locale", :git => 'https://github.com/ashmaroli/jekyll-locale'
   gem 'classifier-reborn'
   gem 'jekyll-algolia'
   gem 'jekyll-archives'
