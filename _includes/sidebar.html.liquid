@@ -12,8 +12,14 @@
 
       <ul class="categories" itemscope itemtype="http://schema.org/BreadcrumbList">
 
+        <style>.sidebar-nav-item {font-size: 0.6rem}</style>
+
         <li class="sidebar-nav-item {% if page.category == 'web' %} active{% endif %}" itemprop="itemListElement" itemscope
-        itemtype="http://schema.org/ListItem"><i>debug: {{ page.locale }}</i></li>
+        itemtype="http://schema.org/ListItem"><i>locale: {{ page.locale }}</i></li>
+
+        <li class="sidebar-nav-item {% if page.category == 'web' %} active{% endif %}" itemprop="itemListElement" itemscope
+        itemtype="http://schema.org/ListItem"><i>path: {{ page.path }}
+        </i></li>
 
         <li class="sidebar-nav-item {% if page.category == 'web' %} active{% endif %}" itemprop="itemListElement" itemscope
         itemtype="http://schema.org/ListItem"><a href="{{ locale.web | downcase | locale_url | absolute_url }}" itemscope  itemtype="http://schema.org/Thing" itemprop="item">{{ locale.web }}</a></li>
