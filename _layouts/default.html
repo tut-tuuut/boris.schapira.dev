@@ -295,6 +295,10 @@ layout: microtypo
         <aside>
           <div class="widget" aria-hidden="true">
             <!-- nomicrotypo -->{% include avatar.svg %}<!-- endnomicrotypo -->
+            <!-- nomicrotypo -->{% include avatar-symbol.svg %}<!-- endnomicrotypo -->
+            <svg aria-hidden="true" class="avatar"><use xlink:href="#avatar-svg" /></svg>
+            <!-- test -->
+            <svg aria-hidden="true" class="avatar"><use xlink:href="/assets/images/shared/avatar.svg#avatar-svg" /></svg>
           </div>
           <div class="widget">
             <h2>{{ "Catégories" | t: page.locale }}</h2>
