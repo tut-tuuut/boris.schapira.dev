@@ -12,7 +12,7 @@ module Jekyll
         locale = page.data['locale']
         next unless name
         if translations.key?(name)
-          translations[name].each do |translation|
+        translations[name].each do |translation|
             if translation.data['locale'] != locale
               page.data['translation'] = translation
               translation.data['translation'] = page
@@ -27,8 +27,8 @@ module Jekyll
       site.posts.docs.each do |post|
         if post.data.key?('translations')
           dataTranslations = post.data['translations']
-          dataTranslations.each do |locale,slug|
-            translationPost = site.posts.docs.select { |post| post.data['slug'] == slug }
+          dataTranslations.each do |locale,relpath|
+            translationPost = site.posts.docs.select { |post| post.relative_path == relpath }
             unless (translationPost.nil? || translationPost[0].nil?)
               post.data['translation'] = {
                 'locale' => translationPost[0].data['locale'],
