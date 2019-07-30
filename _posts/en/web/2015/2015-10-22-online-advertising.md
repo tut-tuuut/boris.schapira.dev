@@ -11,7 +11,7 @@ cloudinary_logo: clever-logo
 slug: online-advertising-current-status
 subtitle: 'A Multifaceted War'
 translations:
-    fr: publicite-en-ligne-un-point
+    fr: _posts/fr/web/2015/2015-10-22-online-advertising.md
 ---
 
 Online advertising has become — for lack of a better solution — the main source

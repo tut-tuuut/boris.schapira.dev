@@ -3,7 +3,7 @@ title: 'Des Happy Meals pour adultes'
 i18n-key: happy-meal
 slug: des-happy-meals-pour-adultes
 translations:
-    en: a-happy-meal-for-grown-ups
+    en: _posts/en/dad/2018/2018-01-12-happy-meal.md
 ---
 
 > – Papa, ça existe les <span lang="en">Happy Meals</span> pour les adultes ?  

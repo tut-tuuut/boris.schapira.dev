@@ -3,7 +3,7 @@ title: 'Doctor of the not dead'
 i18n-key: doctor-of-the-not-dead
 slug: doctor-to-the-dead
 translations:
-    fr: docteur-des-pas-morts
+    fr: _posts/fr/papa/2018/2018-03-08-doctor-of-the-not-dead.md
 ---
 
 My wife's putting the youngest to bed. She gives him one last hug before going

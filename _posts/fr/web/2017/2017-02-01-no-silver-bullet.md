@@ -4,7 +4,7 @@ i18n-key: no-silver-bullet
 canonical: 'https://blog.clever-age.com/fr/2017/02/01/app-ou-web-apps-il-ny-a-pas-de-balle-en-argent/'
 slug: apps-vs-web-apps
 translations:
-    en: apps-vs-webapps-no-silver-bullet
+    en: _posts/en/web/2017/2017-02-01-no-silver-bullet.md
 ---
 
 Je suis encore tombé récemment sur un article qui annonçait calmement la fin des

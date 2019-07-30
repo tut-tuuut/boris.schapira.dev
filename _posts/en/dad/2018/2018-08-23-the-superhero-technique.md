@@ -2,7 +2,7 @@
 title: 'The superhero technique'
 i18n-key: the-superhero-technique
 translations:
-    fr: comme-un-super-heros
+    fr: _posts/fr/papa/2018/2018-08-23-the-superhero-technique.md
 ---
 
 Tonight, the whole family goes to the restaurant. When we get home, I see my

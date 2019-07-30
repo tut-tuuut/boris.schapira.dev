@@ -5,7 +5,7 @@ tags:
     - Netflix
 slug: bookmark-netflix-vitesse
 translations:
-    en: bookmark-netflix-speed
+    en: _posts/en/web/2019/2019-04-17-bookmark-netflix-speed.md
 ---
 
 Il y a quelques mois, j'ai publié un article sur

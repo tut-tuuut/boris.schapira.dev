@@ -2,7 +2,7 @@
 title: 'Black inside'
 i18n-key: black-inside
 translations:
-    fr: noir
+    fr: _posts/fr/papa/2019/2019-02-09-black-inside.md
 ---
 
 My big one loves Les Bleus. He doesn't really know why - since he's never

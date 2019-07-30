@@ -3,7 +3,7 @@ title: 'Comme un super-héros'
 i18n-key: the-superhero-technique
 slug: comme-un-super-heros
 translations:
-    en: the-superhero-technique
+    en: _posts/en/dad/2018/2018-08-23-the-superhero-technique.md
 ---
 
 Ce soir, restaurant pour toute la famille. En rentrant, je vois le grand rentrer

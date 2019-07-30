@@ -2,7 +2,7 @@
 title: 'Mobile carrier'
 i18n-key: mobile-carrier
 translations:
-    fr: operateur
+    fr: _posts/fr/papa/2018/2018-03-21-mobile-carrier.md
 ---
 
 The eldest discovered the theatre a few weeks ago. He's spending his time acting

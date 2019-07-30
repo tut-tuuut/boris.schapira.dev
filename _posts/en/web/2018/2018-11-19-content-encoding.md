@@ -12,7 +12,7 @@ tags:
 slug: content-encoding-how-why
 cloudinary_logo: dareboost-logo
 translations:
-    fr: content-encoding
+    fr: _posts/fr/web/2018/2018-11-19-content-encoding.md
 ---
 
 Improving the speed at which a web page is displayed often means making the

@@ -3,7 +3,7 @@ title: Heels
 i18n-key: single-ladies
 slug: heels
 translations:
-    fr: single-ladies
+    fr: _posts/fr/papa/2019/2019-03-11-single-ladies.md
 ---
 
 > Dad, what's my favorite dance?

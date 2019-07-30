@@ -3,7 +3,7 @@ title: 'The soccer doctor'
 i18n-key: soccer-doctor
 slug: the-soccer-doctor
 translations:
-    fr: medecin-du-foot
+    fr: _posts/fr/papa/2019/2019-02-08-soccer-doctor.md
 ---
 
 My little koala is sick, so I take him to the family doctor. He's seen him a few

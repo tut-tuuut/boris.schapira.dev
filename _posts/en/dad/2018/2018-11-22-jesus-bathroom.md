@@ -2,7 +2,7 @@
 title: "Jesus' bathroom"
 i18n-key: jesus-bathroom
 translations:
-    fr: jesus-et-la-salle-de-bain
+    fr: _posts/fr/papa/2018/2018-11-22-jesus-bathroom.md
 ---
 
 When the kids talk about Jesus and God with each other (I would like to point

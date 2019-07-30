@@ -2,7 +2,7 @@
 title: 'Single Ladies'
 i18n-key: single-ladies
 translations:
-    en: heels
+    en: _posts/en/dad/2019/2019-03-11-single-ladies.md
 ---
 
 > Papa, c'est quoi ma danse préférée ?

@@ -7,7 +7,7 @@ tags:
     - 'User eXperience'
 slug: ou-est-le-wechat-occidental
 translations:
-    en: where-is-the-western-wechat
+    en: _posts/en/web/2017/2017-12-07-where-is-the-western-wechat.md
 ---
 
 Il devient de plus en plus évident que la Chine est train de changer la façon

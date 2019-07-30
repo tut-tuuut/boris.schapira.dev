@@ -4,7 +4,7 @@ title: 'Le sac à dos caché'
 i18n-key: hidden-backpack
 slug: le-sac-a-dos-cache
 translations:
-    en: the-hidden-backpack
+    en: _posts/en/dad/2018/2018-11-13-hidden-backpack.md
 ---
 
 Aujourd'hui, les garçons de 5 ans de la classe de mon fils lui ont volé son

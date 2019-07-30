@@ -3,7 +3,7 @@ title: 'Le médecin du foot'
 i18n-key: soccer-doctor
 slug: medecin-du-foot
 translations:
-    en: the-soccer-doctor
+    en: _posts/en/dad/2019/2019-02-08-soccer-doctor.md
 ---
 
 Petit koala est malade, je l'emmène chez le médecin traitant, qu'il a donc déjà

@@ -5,7 +5,7 @@ i18n-key: conquering-ab-testing
 canonical: 'https://blog.clever-age.com/en/2015/12/14/conquering-ab-testing/'
 cloudinary_logo: clever-logo
 translations:
-    fr: a-la-conquete-des-tests-a-b
+    fr: _posts/fr/web/2014/2014-03-13-conquering-ab-testing.md
 ---
 
 Matthew is not the kind of person who takes decisions lightly, especially when

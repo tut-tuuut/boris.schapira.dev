@@ -2,7 +2,7 @@
 title: 'Little bunny'
 i18n-key: little-bunny
 translations:
-    fr: bout-de-chou
+    fr: _posts/fr/papa/2019/2019-03-31-little-bunny.md
 ---
 
 My 6-year old had been struggling for several days, so he ended up telling us

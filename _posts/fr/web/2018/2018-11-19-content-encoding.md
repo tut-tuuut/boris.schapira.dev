@@ -11,7 +11,7 @@ tags:
     - Encoding
 cloudinary_logo: dareboost-logo
 translations:
-    en: content-encoding-how-why
+    en: _posts/en/web/2018/2018-11-19-content-encoding.md
 ---
 
 Améliorer la vitesse à laquelle une page Web est affichée implique souvent de

@@ -1,6 +1,6 @@
 ---
 title: 'Lauren Bastide'
-subtitle: 'empou-voix-rement'
+subtitle: empou-voix-rement
 tags:
     - Égalité
     - Sorcières

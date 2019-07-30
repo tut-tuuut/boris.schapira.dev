@@ -3,7 +3,7 @@ title: 'A Happy Meal for grown-ups'
 i18n-key: happy-meal
 slug: a-happy-meal-for-grown-ups
 translations:
-    fr: des-happy-meals-pour-adultes
+    fr: _posts/fr/papa/2018/2018-01-12-happy-meal.md
 ---
 
 > – Dad, is there a Happy Meal for grown-ups?  

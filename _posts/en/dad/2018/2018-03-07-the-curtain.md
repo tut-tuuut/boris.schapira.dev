@@ -2,7 +2,7 @@
 title: 'The curtain'
 i18n-key: the-curtain
 translations:
-    fr: le-labyrinthe
+    fr: _posts/fr/papa/2018/2018-03-07-the-curtain.md
 ---
 
 We were at the Mc Donald's and they were playing in the indoor playground. He

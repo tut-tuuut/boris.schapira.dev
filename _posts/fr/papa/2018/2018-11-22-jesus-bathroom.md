@@ -3,7 +3,7 @@ title: 'Jésus et la salle de bain'
 i18n-key: jesus-bathroom
 slug: jesus-et-la-salle-de-bain
 translations:
-    en: jesus-bathroom
+    en: _posts/en/dad/2018/2018-11-22-jesus-bathroom.md
 ---
 
 Quand les enfants parlent entre eux de Jésus et Dieu (je précise que nous ne

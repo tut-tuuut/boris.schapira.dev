@@ -3,7 +3,7 @@ title: Noir
 i18n-key: black-inside
 slug: noir
 translations:
-    en: black-inside
+    en: _posts/en/dad/2019/2019-02-09-black-inside.md
 ---
 
 Mon grand adore les Bleus. Il ne sait pas vraiment pourquoi – vu qu'il n'a

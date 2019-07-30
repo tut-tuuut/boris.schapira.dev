@@ -3,7 +3,7 @@ title: Pliage
 i18n-key: folding-day
 slug: pliage
 translations:
-    en: folding-day
+    en: _posts/en/dad/2019/2019-03-09-folding-day.md
 ---
 
 Aujourd'hui, avec le grand, c'est pliage de linge. D'habitude, c'est quelque

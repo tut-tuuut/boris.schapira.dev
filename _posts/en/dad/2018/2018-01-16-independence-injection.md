@@ -2,7 +2,7 @@
 title: 'Independence injection'
 i18n-key: independence-injection
 translations:
-    fr: injection-d-independance
+    fr: _posts/fr/papa/2018/2018-01-16-independence-injection.md
 ---
 
 At home, my main job is to keep the kids from overflowing our home and give them

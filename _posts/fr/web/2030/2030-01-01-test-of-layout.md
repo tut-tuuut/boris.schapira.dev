@@ -11,7 +11,7 @@ norobots: true
 slug: test-typo
 last_modified_at: '2019-04-09'
 translations:
-    en: typo-test
+    en: _posts/en/web/2030/2030-01-01-test-of-layout.md
 ---
 
 Ceci est un article destiné à tester le respect de certaines règles

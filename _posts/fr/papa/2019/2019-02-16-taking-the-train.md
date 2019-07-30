@@ -3,7 +3,7 @@ title: 'Dans le train'
 i18n-key: taking-the-train
 slug: dans-le-train
 translations:
-    en: taking-the-train
+    en: _posts/en/dad/2019/2019-02-16-taking-the-train.md
 ---
 
 Début des vacances scolaires, les garçons et moi prenons le train pour aller

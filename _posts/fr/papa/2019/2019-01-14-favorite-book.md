@@ -3,7 +3,7 @@ title: 'Son livre favori'
 i18n-key: favorite-book
 slug: livre-favori
 translations:
-    en: favorite-book
+    en: _posts/en/dad/2019/2019-01-14-favorite-book.md
 ---
 
 Je découvre que mon petit dernier a le droit d'amener des livres à l'école.

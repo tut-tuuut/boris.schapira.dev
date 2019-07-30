@@ -2,7 +2,7 @@
 title: 'Taking the train'
 i18n-key: taking-the-train
 translations:
-    fr: dans-le-train
+    fr: _posts/fr/papa/2019/2019-02-16-taking-the-train.md
 ---
 
 At the beginning of the school holidays, the boys and I take the train to see

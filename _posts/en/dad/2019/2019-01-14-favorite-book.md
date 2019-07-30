@@ -2,7 +2,7 @@
 title: 'His favorite book'
 i18n-key: favorite-book
 translations:
-    fr: livre-favori
+    fr: _posts/fr/papa/2019/2019-01-14-favorite-book.md
 ---
 
 I discover that my youngest child is allowed to bring books to school. When a

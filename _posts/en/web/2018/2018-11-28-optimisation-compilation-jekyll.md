@@ -8,7 +8,7 @@ tags:
     - Outils
 slug: jekyll-build-optimization
 translations:
-    fr: optimisation-compilation-jekyll
+    fr: _posts/fr/web/2018/2018-11-28-optimisation-compilation-jekyll.md
 ---
 
 Being more and more tired of WordPress and its galaxy of dubious-quality

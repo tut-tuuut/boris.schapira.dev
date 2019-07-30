@@ -1,6 +1,6 @@
 ---
 title: 'Amandine Gay'
-subtitle: 'empou-voir-rement'
+subtitle: empou-voir-rement
 tags:
     - Égalité
     - Sorcières

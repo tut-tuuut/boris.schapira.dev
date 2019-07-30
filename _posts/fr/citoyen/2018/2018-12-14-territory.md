@@ -5,7 +5,7 @@ i18n-key: territory
 tags:
     - Web
 translations:
-    en: whose-territory-am-i
+    en: _posts/en/citizen/2018/2018-12-14-territory.md
 ---
 
 > Une carte _n'est pas_ le territoire qu'elle représente mais, si elle est

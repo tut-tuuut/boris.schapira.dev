@@ -2,7 +2,7 @@
 title: 'Folding day'
 i18n-key: folding-day
 translations:
-    fr: pliage
+    fr: _posts/fr/papa/2019/2019-03-09-folding-day.md
 ---
 
 Today, with the big one, we have laundry to fold. Usually it's something I do

@@ -5,7 +5,7 @@ tags:
     - Netflix
 last_modified_at: '2019-04-18'
 translations:
-    fr: bookmark-netflix-luminosite
+    fr: _posts/fr/web/2018/2018-08-08-bookmark-netflix-brightness.md
 ---
 
 My kids are on vacation with their grandmothers, which leaves me a lot of free

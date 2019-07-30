@@ -9,7 +9,7 @@ tags:
     - Images
     - SEO
 translations:
-    fr: lazy-loading-des-pages-web-plus-rapides-sans-risque-seo
+    fr: _posts/fr/web/2019/2019-03-20-lazy-loading-faster-webpages-seo-friendly.md
 ---
 
 Images are a key content on your website? If you’re serious about your website

@@ -5,7 +5,7 @@ tags:
     - 'Intelligence Artificielle'
 slug: une-mort-triviale
 translations:
-    en: death-the-trivial-way
+    en: _posts/en/web/2016/2016-08-09-death-the-trivial-way.md
 ---
 
 > D'un côté, il est possible que nous développions une superintelligence qui

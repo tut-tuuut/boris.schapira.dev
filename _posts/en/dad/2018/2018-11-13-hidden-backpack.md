@@ -4,7 +4,7 @@ title: 'The hidden backpack'
 i18n-key: hidden-backpack
 slug: the-hidden-backpack
 translations:
-    fr: le-sac-a-dos-cache
+    fr: _posts/fr/papa/2018/2018-11-13-hidden-backpack.md
 ---
 
 Today, boys in my 5-year-old son's class stole his homemade rainbow backpack

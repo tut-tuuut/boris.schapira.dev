@@ -10,7 +10,7 @@ loadTwitterWjs: true
 cloudinary_logo: dareboost-logo
 slug: lazy-loading-des-pages-web-plus-rapides-sans-risque-seo
 translations:
-    en: lazy-loading-faster-webpages-seo-friendly
+    en: _posts/en/web/2019/2019-03-20-lazy-loading-faster-webpages-seo-friendly.md
 ---
 
 Les images sont au cœur de votre site web ? Si vous prenez la performance de

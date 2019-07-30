@@ -6,7 +6,7 @@ tags:
 slug: bookmark-netflix-luminosite
 last_modified_at: '2019-04-18'
 translations:
-    en: bookmark-netflix-brightness
+    en: _posts/en/web/2018/2018-08-08-bookmark-netflix-brightness.md
 ---
 
 Mes enfants sont en vacances chez leurs grand-mères, ce qui me laisse beaucoup

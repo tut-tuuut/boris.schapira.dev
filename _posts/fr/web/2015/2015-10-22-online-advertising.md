@@ -10,7 +10,7 @@ canonical: 'https://blog.clever-age.com/fr/2015/10/22/publicite-en-ligne-un-poin
 slug: publicite-en-ligne-un-point
 subtitle: 'Une guerre aux multiples facettes'
 translations:
-    en: online-advertising-current-status
+    en: _posts/en/web/2015/2015-10-22-online-advertising.md
 ---
 
 La publicité en ligne est devenue, faute d’une meilleure solution, la principale

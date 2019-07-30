@@ -5,7 +5,7 @@ i18n-key: territory
 tags:
     - Web
 translations:
-    fr: de-qui-suis-je-le-territoire
+    fr: _posts/fr/citoyen/2018/2018-12-14-territory.md
 ---
 
 > A map is _not_ the territory it represents, but, if correct, it has a _similar

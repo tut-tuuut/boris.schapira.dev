@@ -4,7 +4,7 @@ i18n-key: death-the-trivial-way
 tags:
     - 'Intelligence Artificielle'
 translations:
-    fr: une-mort-triviale
+    fr: _posts/fr/web/2016/2016-08-09-death-the-trivial-way.md
 ---
 
 > On the one hand, it’s possible we’ll develop ASI that’s like a god in a box,

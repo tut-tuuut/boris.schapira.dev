@@ -10,7 +10,7 @@ tags:
 slug: hsts-fiabiliser-connexions-securisees
 last_modified_at: '2017-10-16'
 translations:
-    en: hsts-ensure-secured-connections
+    en: _posts/en/web/2017/2017-09-18-hsts-bp-dareboost.md
 ---
 
 Si vous fréquentez [le blog de Dareboost], il ne vous aura pas échappé

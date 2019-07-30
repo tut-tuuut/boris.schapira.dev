@@ -3,7 +3,7 @@ title: Attitude
 i18n-key: behaviour
 slug: attitude
 translations:
-    en: behavior
+    en: _posts/en/dad/2018/2018-03-20-behaviour.md
 ---
 
 Ce matin, nous surprenons les enfants en train de jouer au Scrabble. Évidemment,

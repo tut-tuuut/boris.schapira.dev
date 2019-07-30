@@ -4,7 +4,7 @@ i18n-key: bookmark-netflix-speed
 tags:
     - Netflix
 translations:
-    fr: bookmark-netflix-vitesse
+    fr: _posts/fr/web/2019/2019-04-17-bookmark-netflix-speed.md
 ---
 
 A few month ago, I published a blog post about

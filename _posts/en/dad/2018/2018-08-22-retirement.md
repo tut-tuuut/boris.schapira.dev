@@ -2,7 +2,7 @@
 title: Retirement
 i18n-key: retirement
 translations:
-    fr: la-retraite
+    fr: _posts/fr/papa/2018/2018-08-22-retirement.md
 ---
 
 My wife's retired parents are working on a property renovation....

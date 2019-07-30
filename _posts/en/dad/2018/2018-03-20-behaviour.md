@@ -3,7 +3,7 @@ title: Behavior
 i18n-key: behaviour
 slug: behavior
 translations:
-    fr: attitude
+    fr: _posts/fr/papa/2018/2018-03-20-behaviour.md
 ---
 
 This morning, we surprise the children playing Scrabble. Obviously, the game is

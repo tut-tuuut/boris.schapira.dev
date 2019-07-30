@@ -3,7 +3,7 @@ title: 'À la retraite'
 i18n-key: retirement
 slug: la-retraite
 translations:
-    en: retirement
+    en: _posts/en/dad/2018/2018-08-22-retirement.md
 ---
 
 Les parents de ma femme, retraités, travaillent à la rénovation d'une propriété…

@@ -10,7 +10,7 @@ sitemap: false
 norobots: true
 slug: typo-test
 translations:
-    fr: test-typo
+    fr: _posts/fr/web/2030/2030-01-01-test-of-layout.md
 ---
 
 > This is a test post for typographic matters.

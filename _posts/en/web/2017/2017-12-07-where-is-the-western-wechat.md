@@ -9,7 +9,7 @@ tags:
 publishDate: '2017-10-29'
 cloudinary_logo: clever-logo
 translations:
-    fr: ou-est-le-wechat-occidental
+    fr: _posts/fr/web/2017/2017-06-20-where-is-the-western-wechat.md
 ---
 
 China is unquestionably changing the way Internet integrates our daily lives

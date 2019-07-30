@@ -3,7 +3,7 @@ title: "Injection d'indépendance"
 i18n-key: independence-injection
 slug: injection-d-independance
 translations:
-    en: independence-injection
+    en: _posts/en/dad/2018/2018-01-16-independence-injection.md
 ---
 
 À la maison, mon rôle principal est d'éviter que les enfants ne dépassent du

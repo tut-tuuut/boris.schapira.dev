@@ -10,7 +10,7 @@ tags:
     - JavaScript
 slug: mesurer-interactivite-time-to-interactive
 translations:
-    en: measuring-interactivity-time-to-interactive
+    en: _posts/en/web/2019/2019-05-16-time-to-interactive.md
 ---
 
 L’objectif de la mesure de la Performance Web est de déterminer le moment à

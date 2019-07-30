@@ -3,7 +3,7 @@ title: 'Bout de chou'
 i18n-key: little-bunny
 slug: bout-de-chou
 translations:
-    en: little-bunny
+    en: _posts/en/dad/2019/2019-03-31-little-bunny.md
 ---
 
 Ça fait plusieurs jours que ça le travaille, alors il a fini par nous en parler.
